@@ -1,0 +1,6 @@
+[general]
+name=Scripts para gestion de redes de abastecimiento de aguas
+qgisMinimumVersion=3.0
+description=Conjunto de herramientas simples para la Caja de Procesos
+version=1.0
+author=jmdcc
